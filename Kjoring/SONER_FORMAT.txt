@@ -1,0 +1,9 @@
+<sisteNr>
+<antSoner>
+<sNr> <beskrivelse>
+<antBoligISone> 
+<oppdragsNr> <enum boligType> <gateAdr>
+<datoInnlagt> <postAdr>
+<byggeAar> <brAreal> <antSov> <beskrivelse>
+<angPris> <navnEier>
+<navnSaks>
